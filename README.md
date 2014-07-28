@@ -10,9 +10,9 @@ Run `npm install`
 
 ## Tests
 
-Run `grunt watch` then edit your files. Grunt will watch for changes. Grunt
-will only run tests that start with `it`. When you finish passing a test,
-remove the `x` from `xit` to convert it to a runnable test.
+Review the `allergies.js` file inside the `lib` directory, and then the `allergies.spec.js` file inside the `spec` directory. Review each of the tests, and then start implementing your solutions to make each test pass in `allergies.js`.
+
+Run `grunt watch` then edit your files. Grunt will watch for changes. Grunt will only run tests that start with `it`. When you finish passing a test, remove the `x` from `xit` to convert it to a runnable test.
 
 ## Background
 
