@@ -1,0 +1,5 @@
+javascripts:
+  files:
+    - lib/allergies.js
+  specs:
+    - spec/allergies.spec.js
