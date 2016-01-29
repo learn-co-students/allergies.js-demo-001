@@ -28,4 +28,4 @@ Now, given just that score of 34, your program should be able to say:
 
 Review the `allergies.js` file inside the `lib` directory, and then the `allergies.spec.js` file inside the `spec` directory. Review each of the tests, and then start implementing your solutions to make each test pass in `allergies.js`.
 
-<a href='https://learn.co/lessons/allergies.js' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/allergies.js' title='Allergies'>Allergies</a> on Learn.co and start learning to code for free.</p>
